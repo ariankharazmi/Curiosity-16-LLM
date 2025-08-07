@@ -1,7 +1,7 @@
 # Curiosity-16 LLM
 
 
-## Curiosity-16 is a low-level LLM. Built throughout the 8 weeks of the Summer 2025 UCinci EEP, Curiosity-16 is the culmination of all of the work done as one final advanced deliverable.
+## Curiosity-16 is a low-level LLM. Built throughout the 9 weeks of the Summer 2025 UCinci EEP, Curiosity-16 is the culmination of all of the work done as one final advanced deliverable.
 
 ## Demo Images
 <img width="1339" height="210" alt="image" src="https://github.com/user-attachments/assets/ffbb46a5-b1e1-4d93-ab2f-1b0935071998" />
