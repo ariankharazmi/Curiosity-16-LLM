@@ -52,7 +52,7 @@ Curiosity-16 serves as culmination of the Summer 2025 EEP Research co-op's findi
   author = {Kharazmi, Arian},
   title = {Curiosity-16: A Small Research Model (GPT-2 Medium Fine-tune)},
   year = {2025},
-  url = {https://huggingface.co/ariankharazmi/Curiosity-16}
+  url = {[https://huggingface.co/ariankharazmi/Curiosity-16](https://huggingface.co/ariankharazmi/Curiosity-16)}
 }
 
 ## Acknowledgements
