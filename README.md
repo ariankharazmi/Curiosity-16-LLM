@@ -1,5 +1,7 @@
 # Curiosity-16.2025.08.07 README.MD - Author: Arian Kharazmi - License: Apache 2.0
 
+## Curiosity-16 arXiv preprint available in "arXiv-preprint" directory.
+
 ## Model Summary
 Parameters: 354.8M Parameters  
 Base: GPT-2 Medium (Decoder)  
